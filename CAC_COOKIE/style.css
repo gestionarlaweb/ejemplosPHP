@@ -1,0 +1,22 @@
+
+/* Fondo negro */
+.fondo_negro {
+	background-color: #45484D;
+}
+
+.centrado{
+	text-align: center;
+}
+.footer {
+    /* position: fixed; */
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #45484D;
+    color: white;
+    text-align: center;
+}
+.centrado{
+  margin-left: auto;
+  margin-right: auto;
+}

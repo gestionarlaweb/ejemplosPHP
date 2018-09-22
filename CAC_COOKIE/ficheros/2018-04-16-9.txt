@@ -1,0 +1,1 @@
+{"nombre":"david","apellidos":"Rabassa planas","dni":"38106822p","edad":"45","pais":"Espa\u00f1a","sexo":"hombre","discapacidad":"no"}
