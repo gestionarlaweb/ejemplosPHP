@@ -1,1 +1,0 @@
-{"nombre":"","apellidos":"","dni":"","edad":"","pais":"Espa\u00f1a","sexo":"hombre","discapacidad":"no"}
