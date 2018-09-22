@@ -1,1 +1,0 @@
-{"nombre":"Carla","apellidos":"Vidal","dni":"21012313","edad":"20","pais":"Espa\u00f1a","sexo":"hombre","discapacidad":"visual"}
